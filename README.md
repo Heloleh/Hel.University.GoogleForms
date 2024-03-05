@@ -6,10 +6,10 @@ heloleh21@gmail.com
 https://t.me/heloleh26
 
 ## Getting Started
- -
+- I cloned my project, installed dependencies with npm, and got a Google API client ID. After updating App.js, I ran the app with npm start and visited http://localhost:3000 to experience Google login/logout.
 
 ## Project Documentation
- - Library used to connect Google OAuth 2.0:
+- Library used to connect Google OAuth 2.0:
 @react-oauth/google
 - Library used for decoding userLogin data:
 jwt-decode
