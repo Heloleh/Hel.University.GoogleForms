@@ -9,7 +9,16 @@ https://t.me/heloleh26
  -
 
 ## Project Documentation
- -
+ - Library used to connect Google OAuth 2.0:
+@react-oauth/google
+- Library used for decoding userLogin data:
+jwt-decode
+- Google API Integration:
+Obtain a Google API client ID from the Google Cloud Console.
+Replace the clientId in App.js with the obtained ID.
+Running the App:
+- Execute npm start.
+Visit http://localhost:3000 in your browser.
 
 ## Project Task Decomposition
 Week 1:
