@@ -1,4 +1,3 @@
-=======
 ## Author
 Hel Oleh FeP-21
 
