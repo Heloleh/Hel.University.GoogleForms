@@ -18,5 +18,3 @@ Week 1:
 - Create initial form creation functionality. ❌
 - Develop email notification system for user registration and sign-in. ❌
 - Begin drafting getting started documentation. ✔️
-   
->>>>>>> ecd45655e4f5c4ba01e68a88fe47d1120cc304fd
