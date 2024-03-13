@@ -23,7 +23,7 @@ Visit http://localhost:3000 in your browser.
 ## Project Task Decomposition
 Week 1:
 - Implement user authentication with Google OAuth 2.0. ✔️
-- Set up basic project structure and environment in Azure. ❌
+- Set up basic project structure and environment in Azure. ✔️
 - Create initial form creation functionality. ➕➖
 - Develop email notification system for user registration and sign-in. ❌
 - Begin drafting getting started documentation. ✔️
